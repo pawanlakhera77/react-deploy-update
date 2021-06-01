@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-deploy-update/static/css/main.77196a43.chunk.css",
+    "main.css": "/react-deploy-update/static/css/main.b5b1384c.chunk.css",
     "main.js": "/react-deploy-update/static/js/main.e96ea96d.chunk.js",
     "main.js.map": "/react-deploy-update/static/js/main.e96ea96d.chunk.js.map",
     "runtime-main.js": "/react-deploy-update/static/js/runtime-main.fe4c9f01.js",
@@ -10,14 +10,14 @@
     "static/js/3.2cba43be.chunk.js": "/react-deploy-update/static/js/3.2cba43be.chunk.js",
     "static/js/3.2cba43be.chunk.js.map": "/react-deploy-update/static/js/3.2cba43be.chunk.js.map",
     "index.html": "/react-deploy-update/index.html",
-    "static/css/main.77196a43.chunk.css.map": "/react-deploy-update/static/css/main.77196a43.chunk.css.map",
+    "static/css/main.b5b1384c.chunk.css.map": "/react-deploy-update/static/css/main.b5b1384c.chunk.css.map",
     "static/js/2.e0e5433f.chunk.js.LICENSE.txt": "/react-deploy-update/static/js/2.e0e5433f.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-deploy-update/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fe4c9f01.js",
     "static/js/2.e0e5433f.chunk.js",
-    "static/css/main.77196a43.chunk.css",
+    "static/css/main.b5b1384c.chunk.css",
     "static/js/main.e96ea96d.chunk.js"
   ]
 }
