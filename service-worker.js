@@ -12,7 +12,7 @@
  */
 
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
-
+const = 2;
 importScripts(
   "/react-deploy-update/precache-manifest.8407839592f832e7209518f9ec53371d.js"
 );
